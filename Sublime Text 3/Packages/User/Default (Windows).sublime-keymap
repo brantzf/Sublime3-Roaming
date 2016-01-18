@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+shift+r"], "command": "reindent" , "args": {"single_line": false}},
+	{ "keys": ["f2"], "command": "side_bar_rename"}
+]
